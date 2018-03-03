@@ -1,2 +1,1 @@
 django<=2.0.2
-waitress==1.0.1
